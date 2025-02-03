@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Products Compare\n"
+"POT-Creation-Date: 2025-02-04 02:19+0330\n"
+"PO-Revision-Date: 2025-02-04 02:19+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: WCProductsCompare.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/Compare.php:27
+msgid "Your product compare list is empty"
+msgstr "لیست مقایسه محصولات شما خالی است"
+
+#: inc/Compare.php:95
+msgid "In stock"
+msgstr "موجود"
+
+#: inc/Compare.php:159
+msgid "Your product compare list is not valid"
+msgstr "لیست مقایسه محصولات شما معتبر نیست"
+
+#: inc/Compare.php:191
+msgid "Security code is not valid, page will be refreshed."
+msgstr "کد امنیتی معتبر نیست، صفحه به روز می‌شود."
+
+#: inc/Compare.php:204
+msgid "Compare"
+msgstr "مقایسه"
+
+#: inc/Compare.php:215
+msgid "Price"
+msgstr "قیمت"
+
+#: inc/Compare.php:216
+msgid "Stock"
+msgstr "موجودی"
+
+#: inc/Compare.php:217
+msgid "Rating"
+msgstr "امتیاز"
+
+#: inc/Compare.php:218
+msgid "Brand"
+msgstr "برند"
+
+#: inc/Compare.php:219
+msgid "Dimensions"
+msgstr "ابعاد "
+
+#: inc/Compare.php:220
+msgid "Weight"
+msgstr "وزن"
+
+#: inc/General.php:30
+msgid "It is not possible to add more than %number% product to the comparison."
+msgstr "افزودن بیش از %number% محصول به مقایسه امکان پذیر نیست."
+
+#: inc/Settings.php:16
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: inc/Settings.php:30
+msgid "Products Compare"
+msgstr "مقایسه محصول"
+
+#. Plugin Name of the plugin/theme
+#: inc/Settings.php:52
+msgid "WC Products Compare"
+msgstr "مقایسه محصولات ووکامرس"
+
+#: inc/Settings.php:54
+msgid "The following options are used to configure WC Products Compare"
+msgstr "گزینه‌های زیر برای پیکربندی مقایسه محصولات ووکامرس استفاده می‌شود"
+
+#: inc/Settings.php:60
+msgid "Compare page"
+msgstr "برگه مقایسه"
+
+#: inc/Settings.php:62
+msgid "Insert shortcode in the compare page"
+msgstr "کد کوتاه را در برگه مقایسه وارد کنید"
+
+#: inc/Settings.php:64
+msgid "Select compare page"
+msgstr "انتخاب برگه مقایسه"
+
+#: inc/Settings.php:71
+msgid "Image Size"
+msgstr "اندازه تصویر"
+
+#: inc/Settings.php:73
+msgid "Select product image size"
+msgstr "انتخاب اندازه تصویر محصول"
+
+#: inc/Settings.php:81
+msgid "Display add to card button"
+msgstr "نمایش دکمه افزودن به سبدخرید"
+
+#: inc/Settings.php:84
+msgid "Active"
+msgstr "فعال"
+
+#: inc/Settings.php:93
+msgid "Select product fields"
+msgstr "انتخاب فیلدهای محصول"
+
+#: inc/Settings.php:107
+msgid ""
+"Your product attributes is empty, Add attribute in \"Products > Attributes\" "
+"menu"
+msgstr ""
+"ویژگی‌های محصول شما خالی است، ویژگی را در منوی «محصولات > ویژگی‌ها» اضافه کنید"
+
+#: inc/Settings.php:116
+msgid "Select product attributes"
+msgstr "انتخاب ویژگی‌های محصول"
+
+#. Description of the plugin/theme
+msgid "WooCommerce Products Compare"
+msgstr "مقایسه محصولات ووکامرس"
+
+#. Author of the plugin/theme
+msgid "Parsa Kafi"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://parsa.ws"
+msgstr ""
+
+#~ msgid "Size"
+#~ msgstr "اندازه"
+
+#~ msgid "Stock status"
+#~ msgstr "وضعیت انبار"

@@ -85,7 +85,7 @@ class Compare {
 
 								} elseif ( $key === 'weight' && $product->has_weight() ) {
 									$weight_unit_label = I18nUtil::get_weight_unit_label( get_option( 'woocommerce_weight_unit',
-										'kg' ) );
+										'g' ) );
 									$value             = $product->get_weight() . ' ' . $weight_unit_label;
 
 								} elseif ( $key === 'stock' ) {
@@ -131,7 +131,6 @@ class Compare {
 						echo '</div>';
 					}
 					echo '</div>';
-
 
 					// Fields
 					foreach ( $data['fields'] as $key => $field ) {
